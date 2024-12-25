@@ -1,0 +1,41 @@
+body{
+    font-family: 'Gloria Hallelujah';
+
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+.categories{
+
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+
+}
+
+.flecha{
+    font-size: 70px;
+    position: fixed;
+    top: 0px;
+    padding-left: 30px;
+    color: black;
+    height: 100px;
+    text-align: center;
+}
+
+
+
+.category-button {
+    font-family: 'Gloria Hallelujah';
+    border: none;
+    background-color: white;
+    font-size: 35px;
+    cursor: pointer;
+    text-transform: capitalize;
+}
+.category-button:hover {
+    border-bottom: 3px solid black;
+}

@@ -1,0 +1,75 @@
+body{
+    font-family: 'Gloria Hallelujah';
+}
+
+.header{
+
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+     
+    }
+
+
+.header a {
+
+    font-size: 70px;
+    top: 0px;
+    padding-left: 30px;
+    color: black;
+    height: 100px;
+    text-align: center;
+}
+
+.puntuacion{
+    font-size: 28px;
+    top: 13px;
+    right: 100px;
+    border: 1px solid #ccc;
+    width: 200px;
+    height: 50px;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    text-transform: capitalize;
+}
+
+#gallery {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 40px;
+            padding-left: 50px;
+            padding-right: 50px;
+            justify-content: center;
+        }
+        #gallery div {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        #gallery img {
+            max-width: 200px;
+            height: 200px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        input[type="text"] {
+            margin-top: 5px;
+            padding: 5px;
+            font-size: 18px;
+            width: 180px;
+            height: 30px;
+        }
+        input[type="submit"] {
+            margin-top: 5px;
+            padding: 5px 10px;
+            font-size: 14px;
+            cursor: pointer;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
