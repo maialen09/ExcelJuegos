@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyAA0N_YasFGUvdp1GjUFXi5aZQFLaGqnPg'; 
+const API_KEY = ''; 
         const PARENT_FOLDER_ID = '1IUy3qj8Xb4-OHHuNqJLCMzphx90kD7wc';
 
         // Obtener subcarpetas de la carpeta principal
