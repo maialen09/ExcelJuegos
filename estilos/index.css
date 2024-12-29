@@ -108,5 +108,25 @@ h2{
 
 }
 
+.perfil {
+    margin-top: 30px;
+    width: 100px;
+    text-align: center;
+    font-size: 53px;
+    height: 100px;
+    position: fixed;
+    right: 40px;
+}
+
+.perfil a {
+    text-decoration: none;
+    color: black;
+}
+
+.perfil a:hover{
+
+    color: green;
+}
+
 
 

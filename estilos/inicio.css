@@ -1,0 +1,67 @@
+body{
+    font-family: 'Gloria Hallelujah';
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+h2{
+ 
+    text-align: center;
+    font-size: 30px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 30px;
+    gap: 30px;
+    margin-bottom: 80px;
+}
+
+#correo, #contrasena {
+
+    width: 700px;
+    height:30px;
+    font-family: 'Gloria Hallelujah';
+    font-size: 18px;
+}
+
+#boton-entrar{
+
+    width: 200px;
+    height: 50px;
+    padding: 0;
+    border: none;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    
+}
+
+.registro{
+
+    padding: 0;
+    border: 2px solid black;
+    width: 200px;
+    height: 80px;
+    font-size: 18px;
+    color: black;
+    background-color: white;
+    margin-left: 30px;
+    cursor:pointer;
+
+}
+
+
+
