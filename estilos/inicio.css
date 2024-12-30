@@ -60,8 +60,13 @@ form {
     background-color: white;
     margin-left: 30px;
     cursor:pointer;
+    transition: 0.5s;
 
 }
 
-
+.registro:hover{
+    color: white;
+    background-color: black;
+  
+}
 

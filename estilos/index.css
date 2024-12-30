@@ -83,7 +83,7 @@ h2{
 
 }
 
-.entrada1, .entrada2, .entrada3{
+.entrada{
 
     width: 25%;
     display: flex;
@@ -91,17 +91,17 @@ h2{
 }
 
 
-.entrada1 a , .entrada2 a, .entrada3 a{
+.entrada a {
     text-decoration: none;
     color: black;
 }
 
-.entrada1 p , .entrada2 p , .entrada3 p {
+.entrada p {
     text-align: center;
     border: 2px solid black;
 }
 
-.entrada2 img, .entrada1 img, .entrada3 img{
+.entrada img{
 
     height: 50%;
    
@@ -128,5 +128,9 @@ h2{
     color: green;
 }
 
+#barrabusqueda {
+    font-family: 'Gloria Hallelujah';
+    font-size: 20px;
+}
 
 
